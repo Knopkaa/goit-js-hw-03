@@ -1,7 +1,7 @@
-# goit-js-hw-02
+# goit-js-hw-03
 
 # git add --all
 
-# git commit -m goit-js-hw-02
+# git commit -m goit-js-hw-03
 
 # git push
